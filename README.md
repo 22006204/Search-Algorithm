@@ -106,9 +106,9 @@ else:
 
 ```
 ## Input and Output
-![OUTPUT](./li2.png)
-![OUTPUT](./li3.png)
-![OUTPUT](./li4.png)
+![li2](https://user-images.githubusercontent.com/118787261/214855083-610a5af1-fd9d-4dbf-9da1-676c063d59f1.png)
+![li3](https://user-images.githubusercontent.com/118787261/214855104-e2881476-79bc-46e8-96f2-dca54425ea34.png)
+![li4](https://user-images.githubusercontent.com/118787261/214855108-1e5f0abd-5924-4a78-a597-c2d086e8ba37.png)
 
 
 
